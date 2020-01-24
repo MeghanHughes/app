@@ -1,6 +1,6 @@
 {
-  "short_name": "CRA Boiler",
-  "name": "Create React App Stripped Boiler",
+  "short_name": "App",
+  "name": "PracticeApp",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
